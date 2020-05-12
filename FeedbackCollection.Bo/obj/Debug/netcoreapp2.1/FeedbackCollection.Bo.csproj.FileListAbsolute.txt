@@ -1,0 +1,11 @@
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\bin\Debug\netcoreapp2.1\FeedbackCollection.Bo.deps.json
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\bin\Debug\netcoreapp2.1\FeedbackCollection.Bo.dll
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\obj\Debug\netcoreapp2.1\FeedbackCollection.Bo.csprojAssemblyReference.cache
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\obj\Debug\netcoreapp2.1\FeedbackCollection.Bo.csproj.CoreCompileInputs.cache
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\obj\Debug\netcoreapp2.1\FeedbackCollection.Bo.AssemblyInfoInputs.cache
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\obj\Debug\netcoreapp2.1\FeedbackCollection.Bo.AssemblyInfo.cs
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\bin\Debug\netcoreapp2.1\FeedbackCollection.Bo.runtimeconfig.json
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\bin\Debug\netcoreapp2.1\FeedbackCollection.Bo.runtimeconfig.dev.json
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\bin\Debug\netcoreapp2.1\FeedbackCollection.Bo.pdb
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\obj\Debug\netcoreapp2.1\FeedbackCollection.Bo.dll
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Bo\obj\Debug\netcoreapp2.1\FeedbackCollection.Bo.pdb

@@ -1,0 +1,8 @@
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\bin\Debug\netcoreapp2.1\FeedbackCollection.Service.deps.json
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\bin\Debug\netcoreapp2.1\FeedbackCollection.Service.dll
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\obj\Debug\netcoreapp2.1\FeedbackCollection.Service.csproj.CoreCompileInputs.cache
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\obj\Debug\netcoreapp2.1\FeedbackCollection.Service.AssemblyInfoInputs.cache
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\obj\Debug\netcoreapp2.1\FeedbackCollection.Service.AssemblyInfo.cs
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\bin\Debug\netcoreapp2.1\FeedbackCollection.Service.runtimeconfig.json
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\bin\Debug\netcoreapp2.1\FeedbackCollection.Service.runtimeconfig.dev.json
+D:\WORKS\Task\FeedbackCollection\FeedbackCollection\FeedbackCollection.Service\obj\Debug\netcoreapp2.1\FeedbackCollection.Service.csprojAssemblyReference.cache
